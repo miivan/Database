@@ -1,0 +1,11 @@
+c:\users\ivan\documents\visual studio 2012\Projects\Database3\Database3\bin\Debug\Database3.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Database3\Database3\bin\Debug\Database3.mdf
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Database3\Database3\bin\Debug\Database3_log.ldf
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Database3\Database3\bin\Debug\Database3.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Database3\Database3\bin\Debug\Database3.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Database3\Database3\obj\Debug\Database3.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Database3\Database3\obj\Debug\Database3.frmMain.resources
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Database3\Database3\obj\Debug\Database3.Properties.Resources.resources
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Database3\Database3\obj\Debug\Database3.csproj.GenerateResource.Cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Database3\Database3\obj\Debug\Database3.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Database3\Database3\obj\Debug\Database3.pdb
